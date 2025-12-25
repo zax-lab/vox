@@ -1,0 +1,8 @@
+{
+  "name": "Bannerlord Voice Overlay Prototype",
+  "description": "A high-fidelity OCR-to-Voice simulation for Mount & Blade II: Bannerlord using Gemini AI for text extraction and speech synthesis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
